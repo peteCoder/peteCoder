@@ -20,6 +20,7 @@ I am also seeking for opportunities to work in software development teams.
 For collaboration, please feel to contact me:
 
 [Facebook](https://www.google.com)
+[Email](petercodercoder@gmail.com)
 
 <!--
  is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
