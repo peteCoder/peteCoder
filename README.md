@@ -1,3 +1,4 @@
+![programming banner](https://media-exp1.licdn.com/dms/image/C4D16AQGjc_1XDqJ98g/profile-displaybackgroundimage-shrink_350_1400/0/1656917044956?e=1671667200&v=beta&t=mjgHb2Awzg5w-SptTUS2G5Ux_rOe2jcQA9i97MYSwhQ)
 <h1 align="center"> Hi there!👋 I'm Peter. </h1>
 
 <h3 align="center">whoami</h3>
@@ -10,18 +11,19 @@ a **Pythonista** or a **JavaScript Enthusiast**. Well, that's me! :v:
 
 
 
-I am also seeking for opportunities to work in software development teams.
+
 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=peteCoder&show_icons=true)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=peteCoder&theme=blue)
 
+I'm not just a programmer. I am a team player.
+I am also seeking for opportunities to work in software development teams and to callaborate.
 For collaboration, please feel to contact me:
 
-I'm not just a programmer. I am a team player.
-+ [Email](petercodercoder@gmail.com)
-+ [Email](petercodercoder@gmail.com)
++ [](petercodercoder@gmail.com)
++ [Linkedin](petercodercoder@gmail.com)
 + [Email](mailto:petercodercoder@gmail.com)
 
 
