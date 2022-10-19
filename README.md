@@ -6,7 +6,7 @@ I'm a passionate software developer with an analytical problem solving skill who
 profers solutions in code. I have a background in Economics. This gives an incredible 
 insight to solving problems relating to the financial industry. I am proficient in frontend and
 backend technologies like React, Django, Flask and Fast API. With this, I know you might call 
-a **Pythonista** or a **JavaScript Enthusiast**. Well, that's me!
+a **Pythonista** or a **JavaScript Enthusiast**. Well, that's me! :v:
 
 <!--
  is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
