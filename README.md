@@ -7,7 +7,7 @@ profers solutions in code. I have a background in Economics. This gives an incre
 insight to solving problems relating to the financial industry. I am proficient in frontend and
 backend technologies like React, Django, Flask and Fast API. With this, I know you might call 
 a **Pythonista** or a **JavaScript Enthusiast**. Well, that's me! :v:
-I'm not just a programmer. I am a team player.
+
 
 
 I am also seeking for opportunities to work in software development teams.
@@ -19,6 +19,11 @@ I am also seeking for opportunities to work in software development teams.
 
 For collaboration, please feel to contact me:
 
+I'm not just a programmer. I am a team player.
++ First item
++ Second item
++ Third item
++ Fourth item
 [Facebook](https://www.google.com)
 [Email](petercodercoder@gmail.com)
 
