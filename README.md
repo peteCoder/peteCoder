@@ -20,12 +20,10 @@ I am also seeking for opportunities to work in software development teams.
 For collaboration, please feel to contact me:
 
 I'm not just a programmer. I am a team player.
-+ First item
-+ Second item
-+ Third item
-+ Fourth item
-[Facebook](https://www.google.com)
-[Email](petercodercoder@gmail.com)
++ [Email](petercodercoder@gmail.com)
++ [Email](petercodercoder@gmail.com)
++ [Email](mailto:petercodercoder@gmail.com)
+
 
 <!--
  is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
