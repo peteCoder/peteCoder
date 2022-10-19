@@ -20,7 +20,7 @@ a **Pythonista** or a **JavaScript Enthusiast**. Well, that's me! :v:
 ## 1. GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=peteCoder&show_icons=true)
 ## 2. Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=peteCoder&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=peteCoder&theme=navi-blue)
 ## 3. Contributors Badge
 ![Your Repository's Stats](https://contrib.rocks/image?repo=peteCoder/Python)
 ## 4. Random Joke Generator
