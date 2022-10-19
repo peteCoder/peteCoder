@@ -1,6 +1,6 @@
 ## Hi there!👋 I'm Peter. 
 
-**whoami**
+### whoami
 
 I'm a passionate software developer with an analytical problem solving skill who 
 profers solutions in code. I have a background in Economics. This gives an incredible 
