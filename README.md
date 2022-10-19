@@ -1,4 +1,6 @@
-## Hi there!👋 I'm Peter. 
+# Hi there!👋 
+
+## I'm Peter. 
 
 ### whoami
 
