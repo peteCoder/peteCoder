@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there! 👋
+## I am Peter.
 
 **peteCoder/peteCoder**
 
