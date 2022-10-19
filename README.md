@@ -16,7 +16,7 @@ a **Pythonista** or a **JavaScript Enthusiast**. Well, that's me! :v:
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=peteCoder&theme=blue)
 
 
-[click here](www.google.com)
+[click here](https://www.google.com)
 
 <!--
  is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
