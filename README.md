@@ -22,8 +22,7 @@ I'm not just a programmer. I am a team player.
 I am also seeking for opportunities to work in software development teams and to callaborate.
 For collaboration, please feel to contact me:
 
-+ [](petercodercoder@gmail.com)
-+ [Linkedin](petercodercoder@gmail.com)
++ [Linkedin](https://www.linkedin.com/in/peter-esezobor-153257225/)
 + [Email](mailto:petercodercoder@gmail.com)
 
 
