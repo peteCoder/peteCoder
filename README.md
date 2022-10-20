@@ -4,7 +4,7 @@
 <h3 align="center">whoami</h3>
 
 I'm a passionate software developer with analytical problem solving skills who 
-profers solutions in code. I have a background in Economics. This gives me man an incredible 
+profers solutions in code. I have a background in Economics. This gives me an incredible 
 insight to solving problems relating to the financial industry. I am proficient in frontend and
 backend technologies like React, Django, Flask and Fast API. With this, I know you might call me 
 a **Pythonista** or a **JavaScript Enthusiast**. Well, that's me! :v:
